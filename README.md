@@ -1,4 +1,4 @@
-## Hola, soy José Ricardo Cruz Aguilar 👋
+## Hola, soy José Ricardo Cruz Aguilar
 
 ### Software Engineer · Backend Developer & Cybersecurity Enthusiast · Puebla, MX
 
