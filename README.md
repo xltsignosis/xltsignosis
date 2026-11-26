@@ -26,6 +26,6 @@ También: Splunk · Wireshark · Burp Suite
 
 ---
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=xltsignosis&theme=nightowl)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=xltsignosis&show_icons=true&theme=nightowl)
 
 ![snake](https://raw.githubusercontent.com/xltsignosis/xltsignosis/output/snake-dark.svg)
